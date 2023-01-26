@@ -1,0 +1,49 @@
+body{
+height: 1000px;
+}
+
+.navbar-brand{
+    margin-left: 200px;
+    color: lightgray;
+}
+.navbar-nav{
+    display: flex;
+    margin-left: 600px;
+}
+.nav-link{
+    color: grey;
+}
+.active{
+    color: grey;
+}
+.main{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.card{
+    background-color: rgb(218, 224, 226);
+    height: 300px;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.cards{
+    margin-top: 20px;
+}
+.col-sm-3{
+    text-align: center;
+    align-items: baseline;
+}
+.card-body{
+    height: 250px;
+    padding: 15px;
+}
+.footer{
+    margin-top: 30px;
+}
+.col-lg-12{
+    color: lightgrey;
+    margin-top: 20px;
+    height: 70px;
+    text-align: center;
+}
